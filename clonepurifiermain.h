@@ -11,6 +11,7 @@ class ClonePurifierMain : public QMainWindow
 {
     Q_OBJECT
 
+
 public:
     explicit ClonePurifierMain(QWidget *parent = 0);
     ~ClonePurifierMain();
